@@ -60,8 +60,7 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 
 
 # RTL OUTPUT
-
-![CIRCUIT](https://github.com/user-attachments/assets/55370082-ad3e-4f7d-9c54-7f3969edba5b)
+![Screenshot 2024-11-28 141503](https://github.com/user-attachments/assets/ae8ab8a2-8c4c-4418-8401-61caa20bfc51)
 
 
 # OUTPUT WAVEFORM
