@@ -1,11 +1,11 @@
 # NAME : YUVARAJ M
 # REG NO : 24900173
-## EXPERIMENT NO 4: FULL_ADDER_SUBTRACTOR
+## EXPERIMENT NO 4: IMPLEMENTATION OF FULL_ADDER_SUBTRACTOR
 
 
 
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+
 
 # AIM:
 
